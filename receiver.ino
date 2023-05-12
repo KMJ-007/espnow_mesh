@@ -54,6 +54,7 @@ int calculateDistance(int rssi) {
 }
 
 void loop() {
-  
+ delay(5000);
+ Serial.println("board is running!);
 }
 
